@@ -13,7 +13,6 @@ namespace GitHubProject
         }
         private void Test()
         {
-
         }
     }
 }
