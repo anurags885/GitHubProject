@@ -11,5 +11,8 @@ namespace GitHubProject
         static void Main(string[] args)
         {
         }
+        private void Test()
+        {
+        }
     }
 }
