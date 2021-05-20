@@ -13,7 +13,10 @@ namespace GitHubProject
         }
         private void Test()
         {
-            string s="My Test";
+           
+        }
+        private void MyTest()
+        {
         }
     }
 }
